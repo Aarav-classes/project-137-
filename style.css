@@ -1,0 +1,25 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    font-size: 30px;
+    margin: 0;
+    width: 100%;
+}
+.copy_right_footer{
+    position: fixed;
+    color: antiquewhite;
+    bottom: 0;
+    text-align: center;
+    background-color: darkslategray;
+    width: 100%;
+    font-size: 20px;
+}
+#start,#detected.no_of_objects{
+    font-size: 20px;
+}
+canvas{ 
+    box-shadow: 5px 5px 5px gray;
+     margin-top: 110px;
+}
